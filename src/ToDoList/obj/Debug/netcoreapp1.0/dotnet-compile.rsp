@@ -208,3 +208,5 @@ C:\Users\epicodus\Desktop\to-do-list-dotnet\src\ToDoList\Models\Categorization.c
 C:\Users\epicodus\Desktop\to-do-list-dotnet\src\ToDoList\Models\Category.cs
 C:\Users\epicodus\Desktop\to-do-list-dotnet\src\ToDoList\Models\Item.cs
 C:\Users\epicodus\Desktop\to-do-list-dotnet\src\ToDoList\Models\ToDoListContext.cs
+C:\Users\epicodus\Desktop\to-do-list-dotnet\src\ToDoList\Models\Repositories\EFItemRepository.cs
+C:\Users\epicodus\Desktop\to-do-list-dotnet\src\ToDoList\Models\Repositories\IItemRepository.cs
